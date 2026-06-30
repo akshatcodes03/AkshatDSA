@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/akshatcodes03/AkshatDSA/tree/master/2833-furthest-point-from-origin) |
+| [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
 |  |

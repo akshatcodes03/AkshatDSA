@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 ## Matrix

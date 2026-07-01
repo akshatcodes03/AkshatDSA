@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |

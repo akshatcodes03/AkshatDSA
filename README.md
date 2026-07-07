@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0908-smallest-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |

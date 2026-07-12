@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/akshatcodes03/AkshatDSA/tree/master/2833-furthest-point-from-origin) |
+| [3280-convert-date-to-binary](https://github.com/akshatcodes03/AkshatDSA/tree/master/3280-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-smallest-range-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0908-smallest-range-i) |
 | [1323-maximum-69-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3280-convert-date-to-binary](https://github.com/akshatcodes03/AkshatDSA/tree/master/3280-convert-date-to-binary) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/akshatcodes03/AkshatDSA/tree/master/0008-string-to-integer-atoi) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |

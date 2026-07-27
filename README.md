@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0908-smallest-range-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0039-combination-sum) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0908-smallest-range-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/akshatcodes03/AkshatDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/akshatcodes03/AkshatDSA/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/akshatcodes03/AkshatDSA/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |

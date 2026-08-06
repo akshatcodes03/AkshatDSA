@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/akshatcodes03/AkshatDSA/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshatcodes03/AkshatDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Game Theory
 |  |

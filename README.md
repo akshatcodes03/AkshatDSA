@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3280-convert-date-to-binary](https://github.com/akshatcodes03/AkshatDSA/tree/master/3280-convert-date-to-binary) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |

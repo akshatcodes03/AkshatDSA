@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0223-rectangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/akshatcodes03/AkshatDSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
@@ -263,17 +264,20 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/akshatcodes03/AkshatDSA/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -282,9 +286,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

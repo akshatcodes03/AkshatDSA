@@ -1,5 +1,7 @@
 class Solution {
     public void rotate(int[] nums, int k) {
+
+    // sabse pehle jitna bhi value hai k ki uske elemnet starting se rotate kaenge baki vale bache fir alag reverse karenge fir saari array ek sath reverse kar denge 
         int n = nums.length;
         k = k % n;
         reverse(nums, 0, n - 1);

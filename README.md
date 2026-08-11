@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |
 | [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

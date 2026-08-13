@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatcodes03/AkshatDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

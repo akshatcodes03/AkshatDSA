@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |
+| [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -338,10 +341,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatcodes03/AkshatDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatcodes03/AkshatDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0039-combination-sum) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |

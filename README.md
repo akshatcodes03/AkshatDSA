@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/akshatcodes03/AkshatDSA/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/akshatcodes03/AkshatDSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatcodes03/AkshatDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatcodes03/AkshatDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |

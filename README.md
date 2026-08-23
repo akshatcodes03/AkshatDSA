@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatcodes03/AkshatDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/akshatcodes03/AkshatDSA/tree/master/2833-furthest-point-from-origin) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/akshatcodes03/AkshatDSA/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/akshatcodes03/AkshatDSA/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/akshatcodes03/AkshatDSA/tree/master/2413-smallest-even-multiple) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshatcodes03/AkshatDSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/akshatcodes03/AkshatDSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshatcodes03/AkshatDSA/tree/master/2029-stone-game-ix) |
 ## Brainteaser
 |  |

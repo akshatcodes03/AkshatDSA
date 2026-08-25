@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |

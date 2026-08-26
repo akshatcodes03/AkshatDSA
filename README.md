@@ -427,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/akshatcodes03/AkshatDSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

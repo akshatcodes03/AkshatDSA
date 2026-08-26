@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatcodes03/AkshatDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatcodes03/AkshatDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |

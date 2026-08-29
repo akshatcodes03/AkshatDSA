@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/akshatcodes03/AkshatDSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akshatcodes03/AkshatDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatcodes03/AkshatDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |

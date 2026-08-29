@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akshatcodes03/AkshatDSA/tree/master/0747-largest-number-at-least-twice-of-others) |

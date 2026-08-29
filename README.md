@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshatcodes03/AkshatDSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatcodes03/AkshatDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/akshatcodes03/AkshatDSA/tree/master/1563-stone-game-v) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshatcodes03/AkshatDSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/akshatcodes03/AkshatDSA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |

@@ -16,13 +16,13 @@ class Solution {
         for (int i = 1; i <= n - k; i++) {
 
             char ch = s.charAt(i - 1);
-            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
+            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u'){
                 vowelCount--;
-
+        }
             ch = s.charAt(i + k - 1);
-            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
+            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u'){
                 vowelCount++;
-
+        }
             maxVowelCount = Math.max(maxVowelCount, vowelCount);
         }
 

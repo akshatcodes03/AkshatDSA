@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < k; i++) {
             char ch = s.charAt(i);
 
-            if ("aeiou".indexOf(ch)>=0)
+            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
                 vowelCount++;
         }
 
@@ -16,11 +16,11 @@ class Solution {
         for (int i = 1; i <= n - k; i++) {
 
             char ch = s.charAt(i - 1);
-            if ("aeiou".indexOf(ch)>=0)
+            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
                 vowelCount--;
 
             ch = s.charAt(i + k - 1);
-            if ("aeiou".indexOf(ch)>=0)
+            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
                 vowelCount++;
 
             maxVowelCount = Math.max(maxVowelCount, vowelCount);

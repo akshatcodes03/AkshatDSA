@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < k; i++) {
             char ch = s.charAt(i);
 
-            if (ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u')
+            if ("aeiou".indexOf(ch)>=0)
                 vowelCount++;
         }
 

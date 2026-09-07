@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshatcodes03/AkshatDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshatcodes03/AkshatDSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |

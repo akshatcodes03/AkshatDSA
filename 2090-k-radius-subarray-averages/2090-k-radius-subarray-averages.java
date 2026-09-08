@@ -6,10 +6,8 @@ class Solution {
 
         int[] result = new int[n];
 
-        // Sabko -1 se fill kar do
         java.util.Arrays.fill(result, -1);
 
-        // Agar poori window hi array se badi hai
         if (w > n) {
             return result;
         }
@@ -19,29 +17,21 @@ class Solution {
         int f = 0;
         int s = 0;
 
-        // First window ka sum
         while (f < w) {
             sum += nums[f];
             f++;
         }
 
-        // First valid average index k par hoga
+        
         int i = k;
         result[i] = (int) (sum / w);
 
-        // Sliding Window
+        
         while (f < n) {
-
-            // Naya element add
             sum = sum + nums[f];
-
-            // Purana element remove
             sum = sum - nums[s];
-
-            // Average store
+            
             result[++i] = (int) (sum / w);
-
-            // Pointers move
             s++;
             f++;
         }

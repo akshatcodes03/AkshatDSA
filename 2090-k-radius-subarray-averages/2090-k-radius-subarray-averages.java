@@ -2,24 +2,50 @@ class Solution {
     public int[] getAverages(int[] nums, int k) {
 
         int n = nums.length;
-        int[] avgs = new int[n];
+        int w = 2 * k + 1;
 
-        
-        for (int i = 0; i < n; i++) {
-            avgs[i] = -1;
+        int[] result = new int[n];
+
+        // Sabko -1 se fill kar do
+        java.util.Arrays.fill(result, -1);
+
+        // Agar poori window hi array se badi hai
+        if (w > n) {
+            return result;
         }
 
-        for (int i = k; i < n - k; i++) {
+        long sum = 0;
 
-            long sum = 0;
-  
-            for (int j = i - k; j <= i + k; j++) {
-                sum += nums[j];
-            }
-           
-            avgs[i] = (int)(sum / (2 * k + 1));
+        int f = 0;
+        int s = 0;
+
+        // First window ka sum
+        while (f < w) {
+            sum += nums[f];
+            f++;
         }
 
-        return avgs;
+        // First valid average index k par hoga
+        int i = k;
+        result[i] = (int) (sum / w);
+
+        // Sliding Window
+        while (f < n) {
+
+            // Naya element add
+            sum = sum + nums[f];
+
+            // Purana element remove
+            sum = sum - nums[s];
+
+            // Average store
+            result[++i] = (int) (sum / w);
+
+            // Pointers move
+            s++;
+            f++;
+        }
+
+        return result;
     }
 }

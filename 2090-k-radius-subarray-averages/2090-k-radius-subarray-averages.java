@@ -1,23 +1,25 @@
 class Solution {
     public int[] getAverages(int[] nums, int k) {
+
         int n = nums.length;
-        int windowSize = 2 * k + 1;
-        int[] ans = new int[n];
-        Arrays.fill(ans,-1);
+        int[] avgs = new int[n];
+
         
-        if (n < windowSize) {
-            return ans;
+        for (int i = 0; i < n; i++) {
+            avgs[i] = -1;
         }
-        
-        long[] prefixSum = new long[n + 1];
-        for (int i = 0; i < n; ++i) {
-            prefixSum[i + 1] = prefixSum[i] + nums[i];
+
+        for (int i = k; i < n - k; i++) {
+
+            long sum = 0;
+  
+            for (int j = i - k; j <= i + k; j++) {
+                sum += nums[j];
+            }
+           
+            avgs[i] = (int)(sum / (2 * k + 1));
         }
-        
-        for (int i = k; i + k < n; ++i) {
-            ans[i] = (int) ((prefixSum[i + k + 1] - prefixSum[i - k]) / windowSize);
-        }
-        
-        return ans;
+
+        return avgs;
     }
 }

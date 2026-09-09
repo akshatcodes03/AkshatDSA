@@ -1,6 +1,5 @@
 class Solution {
     public String reverseWords(String s) {
-
     s= s.trim();
     String [] arr = s.split(" +");
     String ans="";
@@ -8,6 +7,5 @@ class Solution {
         ans =ans+arr[i]+" ";
     }
     return ans.trim();
-
     }
 }

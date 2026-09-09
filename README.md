@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0940-distinct-subsequences-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |

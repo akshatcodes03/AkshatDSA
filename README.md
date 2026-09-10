@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshatcodes03/AkshatDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshatcodes03/AkshatDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshatcodes03/AkshatDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/akshatcodes03/AkshatDSA/tree/master/3310-remove-methods-from-project) |
@@ -545,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshatcodes03/AkshatDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshatcodes03/AkshatDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

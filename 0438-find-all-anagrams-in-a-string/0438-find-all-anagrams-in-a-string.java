@@ -1,41 +1,49 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
 
-        List<Integer> ans = new ArrayList<>();
+        int n1 = p.length();
+        int n2 = s.length();
 
         int k = p.length();
 
-        int[] pFreq = new int[26];
+        List<Integer> ans = new ArrayList<>();
 
-        // p ki frequency
-        for (int i = 0; i < p.length(); i++) {
-            char ch = p.charAt(i);
-            pFreq[ch - 'a']++;
+        if (n1 > n2) {
+            return ans;
         }
 
-        // s ke har possible substring ko check karo
-        for (int i = 0; i <= s.length() - k; i++) {
+        int[] fp = new int[128];
+        int[] fs = new int[128];
 
-            int[] freq = new int[26];
+        int l = 0;
+        int r = 0;
 
-            // substring ki frequency
-            for (int j = i; j < i + k; j++) {
-                char ch = s.charAt(j);
-                freq[ch - 'a']++;
-            }
+        // First window
+        while (r < k) {
+            fp[p.charAt(r)]++;
+            fs[s.charAt(r)]++;
+            r++;
+        }
 
-            // Dono frequency same hain ya nahi
-            boolean same = true;
+        // Check first window
+        if (Arrays.equals(fp, fs)) {
+            ans.add(l);
+        }
 
-            for (int j = 0; j < 26; j++) {
-                if (freq[j] != pFreq[j]) {
-                    same = false;
-                    break;
-                }
-            }
+        // Sliding window
+        while (r < n2) {
 
-            if (same) {
-                ans.add(i);
+            fs[s.charAt(r)]++;
+            fs[s.charAt(l)]--;
+
+            l++;
+            r++;
+
+            // Check every window
+            if (Arrays.equals(fp, fs)) {
+                ans.add(l);
             }
         }
 

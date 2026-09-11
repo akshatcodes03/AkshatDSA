@@ -18,19 +18,19 @@ class Solution {
         int l = 0;
         int r = 0;
 
-        // First window
+        // First window hai ye
         while (r < k) {
             fp[p.charAt(r)]++;
             fs[s.charAt(r)]++;
             r++;
         }
 
-        // Check first window
+        // First window ko check karega 
         if (Arrays.equals(fp, fs)) {
             ans.add(l);
         }
 
-        // Sliding window
+        // Sliding window lagaya hai 
         while (r < n2) {
 
             fs[s.charAt(r)]++;
@@ -39,7 +39,7 @@ class Solution {
             l++;
             r++;
 
-            // Check every window
+            // fir check kiya every window
             if (Arrays.equals(fp, fs)) {
                 ans.add(l);
             }

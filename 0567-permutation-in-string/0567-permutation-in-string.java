@@ -16,7 +16,7 @@ class Solution {
         int l = 0;
         int r = 0;
 
-        // First window
+        
         while (r < k) {
             fs1[s1.charAt(r)]++;
             fs2[s2.charAt(r)]++;

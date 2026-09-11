@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatcodes03/AkshatDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatcodes03/AkshatDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatcodes03/AkshatDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshatcodes03/AkshatDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatcodes03/AkshatDSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |

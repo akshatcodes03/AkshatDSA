@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/akshatcodes03/AkshatDSA/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/akshatcodes03/AkshatDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akshatcodes03/AkshatDSA/tree/master/0125-valid-palindrome) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/0070-climbing-stairs) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |

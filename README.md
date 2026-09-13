@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0283-move-zeroes) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0643-maximum-average-subarray-i) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |

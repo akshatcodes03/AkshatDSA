@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
+| [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatcodes03/AkshatDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akshatcodes03/AkshatDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/akshatcodes03/AkshatDSA/tree/master/0835-image-overlap) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshatcodes03/AkshatDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |

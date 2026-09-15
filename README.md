@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/akshatcodes03/AkshatDSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/akshatcodes03/AkshatDSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatcodes03/AkshatDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |

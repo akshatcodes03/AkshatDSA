@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/akshatcodes03/AkshatDSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshatcodes03/AkshatDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1927-sum-game) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshatcodes03/AkshatDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/akshatcodes03/AkshatDSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshatcodes03/AkshatDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshatcodes03/AkshatDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshatcodes03/AkshatDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatcodes03/AkshatDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack

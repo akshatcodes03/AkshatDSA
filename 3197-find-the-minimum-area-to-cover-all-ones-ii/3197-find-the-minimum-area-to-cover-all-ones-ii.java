@@ -5,7 +5,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int ans = getNext(0, 0, m - 1, n - 1, 3, grid, map);
+        int ans = getNext(0, 0, m-1, n-1, 3, grid, map);
 
         return ans;
     }
@@ -63,6 +63,6 @@ class Solution {
         }
 
         map.put(key, output);
-        return output
+        return output;
     }
 }

@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatcodes03/AkshatDSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatcodes03/AkshatDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatcodes03/AkshatDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatcodes03/AkshatDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/akshatcodes03/AkshatDSA/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshatcodes03/AkshatDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3499-maximize-active-section-with-trade-i) |

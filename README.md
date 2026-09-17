@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/akshatcodes03/AkshatDSA/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/akshatcodes03/AkshatDSA/tree/master/0197-rising-temperature) |
 ## Euclidean Algorithm
 |  |
 | ------- |

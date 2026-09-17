@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akshatcodes03/AkshatDSA/tree/master/0069-sqrtx) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshatcodes03/AkshatDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization

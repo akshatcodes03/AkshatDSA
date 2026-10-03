@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/akshatcodes03/AkshatDSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/akshatcodes03/AkshatDSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/akshatcodes03/AkshatDSA/tree/master/0115-distinct-subsequences) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/akshatcodes03/AkshatDSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatcodes03/AkshatDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

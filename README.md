@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/akshatcodes03/AkshatDSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshatcodes03/AkshatDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshatcodes03/AkshatDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0301-remove-invalid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |

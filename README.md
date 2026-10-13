@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatcodes03/AkshatDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshatcodes03/AkshatDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/3903-smallest-stable-index-i) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshatcodes03/AkshatDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatcodes03/AkshatDSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshatcodes03/AkshatDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |

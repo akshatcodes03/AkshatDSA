@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/akshatcodes03/AkshatDSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/akshatcodes03/AkshatDSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akshatcodes03/AkshatDSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/akshatcodes03/AkshatDSA/tree/master/0836-rectangle-overlap) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/akshatcodes03/AkshatDSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/akshatcodes03/AkshatDSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1004-max-consecutive-ones-iii) |

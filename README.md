@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/akshatcodes03/AkshatDSA/tree/master/2029-stone-game-ix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1323-maximum-69-number) |
+| [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akshatcodes03/AkshatDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshatcodes03/AkshatDSA/tree/master/1510-stone-game-iv) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1386-cinema-seat-allocation) |
+| [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshatcodes03/AkshatDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |

@@ -9,3 +9,9 @@ class Solution {
         return 1+solve(n-row, row+1);
     }
 }
+
+// class Solution {
+//     public int arrangeCoins(int n) {
+//         return (int) ((Math.sqrt(8.0 * n + 1) - 1) / 2);
+//     }
+// }

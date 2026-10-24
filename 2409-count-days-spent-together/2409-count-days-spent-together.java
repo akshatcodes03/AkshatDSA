@@ -17,7 +17,7 @@ class Solution {
 
         int endDay = days[Integer.parseInt(end.substring(0, 2)) - 1]+Integer.parseInt(end.substring(3));
 
-        return endDay - startDay + 1;
+        return endDay-startDay+1;
 
     }
 }

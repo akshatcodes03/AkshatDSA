@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshatcodes03/AkshatDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |

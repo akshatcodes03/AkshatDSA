@@ -14,32 +14,34 @@ class Solution {
         int count = 0;
         ListNode temp = head;
 
+        
         while (temp != null) {
             count++;
             temp = temp.next;
         }
 
+        
         int[] array = new int[count];
         int p = count - 1;
 
        
         temp = head;
-
         while (temp != null) {
             array[p] = temp.val;
-            p--;
             temp = temp.next;
+            p--;
         }
 
-       
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+        
+        temp = head;
+        p = 0;
 
-        for (int i = 0; i < count; i++) {
-            curr.next = new ListNode(array[i]);
-            curr = curr.next;
+        while (temp != null) {
+            temp.val = array[p];
+            temp = temp.next;
+            p++;
         }
 
-        return dummy.next;
+        return head;
     }
 }

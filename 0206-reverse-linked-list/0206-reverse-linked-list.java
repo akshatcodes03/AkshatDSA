@@ -11,37 +11,48 @@ class Solution {
         
         // return prev;
 
-        int count = 0;
-        ListNode temp = head;
+        // int count = 0;
+        // ListNode temp = head;
 
         
-        while (temp != null) {
-            count++;
-            temp = temp.next;
-        }
+        // while (temp != null) {
+        //     count++;
+        //     temp = temp.next;
+        // }
 
         
-        int[] array = new int[count];
-        int p = count - 1;
+        // int[] array = new int[count];
+        // int p = count - 1;
 
        
-        temp = head;
-        while (temp != null) {
-            array[p] = temp.val;
-            temp = temp.next;
-            p--;
-        }
+        // temp = head;
+        // while (temp != null) {
+        //     array[p] = temp.val;
+        //     temp = temp.next;
+        //     p--;
+        // }
 
         
-        temp = head;
-        p = 0;
+        // temp = head;
+        // p = 0;
 
-        while (temp != null) {
-            temp.val = array[p];
-            temp = temp.next;
-            p++;
+        // while (temp != null) {
+        //     temp.val = array[p];
+        //     temp = temp.next;
+        //     p++;
+        // }
+
+        // return head;
+
+
+        ListNode prev = null;
+        ListNode curr = head;
+        while(curr!=null){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
-
-        return head;
+        return prev;
     }
 }

@@ -34,16 +34,16 @@ class Solution {
         ListNode mid = FindMiddle(head);
         ListNode reversedHead = ReverseLinkedList(mid);
 
-        ListNode curr = head;
-        ListNode reverseCurr = reversedHead;
+        ListNode first = head;
+        ListNode second = reversedHead;
 
-        while (reverseCurr != null) {
-            if (curr.val != reverseCurr.val) {
+        while (second != null) {
+            if (first.val != second.val) {
                 return false;
             }
 
-            curr = curr.next;
-            reverseCurr = reverseCurr.next;
+            first = first.next;
+            second = second.next;
         }
 
         return true;

@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/0392-is-subsequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/akshatcodes03/AkshatDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshatcodes03/AkshatDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1021-remove-outermost-parentheses) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/akshatcodes03/AkshatDSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/akshatcodes03/AkshatDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |

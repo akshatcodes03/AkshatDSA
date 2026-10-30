@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akshatcodes03/AkshatDSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatcodes03/AkshatDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0136-single-number) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/akshatcodes03/AkshatDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0151-reverse-words-in-a-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0856-score-of-parentheses) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/akshatcodes03/AkshatDSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatcodes03/AkshatDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 ## Enumeration
 |  |

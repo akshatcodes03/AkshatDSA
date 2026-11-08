@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akshatcodes03/AkshatDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/akshatcodes03/AkshatDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/akshatcodes03/AkshatDSA/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/akshatcodes03/AkshatDSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/akshatcodes03/AkshatDSA/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshatcodes03/AkshatDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshatcodes03/AkshatDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshatcodes03/AkshatDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshatcodes03/AkshatDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshatcodes03/AkshatDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshatcodes03/AkshatDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshatcodes03/AkshatDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/akshatcodes03/AkshatDSA/tree/master/2685-count-the-number-of-complete-components) |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/akshatcodes03/AkshatDSA/tree/master/1512-number-of-good-pairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/akshatcodes03/AkshatDSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatcodes03/AkshatDSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/akshatcodes03/AkshatDSA/tree/master/0389-find-the-difference) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -770,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/akshatcodes03/AkshatDSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/akshatcodes03/AkshatDSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/akshatcodes03/AkshatDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1021-remove-outermost-parentheses) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akshatcodes03/AkshatDSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akshatcodes03/AkshatDSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/akshatcodes03/AkshatDSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/akshatcodes03/AkshatDSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/akshatcodes03/AkshatDSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |

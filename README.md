@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/akshatcodes03/AkshatDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatcodes03/AkshatDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/akshatcodes03/AkshatDSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akshatcodes03/AkshatDSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/akshatcodes03/AkshatDSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/akshatcodes03/AkshatDSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/akshatcodes03/AkshatDSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1920-build-array-from-permutation) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/akshatcodes03/AkshatDSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/akshatcodes03/AkshatDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/akshatcodes03/AkshatDSA/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshatcodes03/AkshatDSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshatcodes03/AkshatDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |

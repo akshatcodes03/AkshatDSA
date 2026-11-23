@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/akshatcodes03/AkshatDSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/akshatcodes03/AkshatDSA/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/akshatcodes03/AkshatDSA/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akshatcodes03/AkshatDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/akshatcodes03/AkshatDSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/akshatcodes03/AkshatDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatcodes03/AkshatDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/akshatcodes03/AkshatDSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1406-stone-game-iii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/akshatcodes03/AkshatDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/akshatcodes03/AkshatDSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatcodes03/AkshatDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatcodes03/AkshatDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshatcodes03/AkshatDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshatcodes03/AkshatDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -786,4 +789,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshatcodes03/AkshatDSA/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshatcodes03/AkshatDSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
